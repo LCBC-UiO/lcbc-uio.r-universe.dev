@@ -1,0 +1,32 @@
+[
+    {
+        "package": "nettskjemar",
+        "url": "https://github.com/LCBC-UiO/nettskjemar/"
+    },
+    {
+        "package": "MOAS",
+        "url": "https://github.com/LCBC-UiO/MOAS"
+    },
+    {
+        "package": "Questionnaires",
+        "url": "https://github.com/LCBC-UiO/Questionnaires"
+    },
+    {
+        "package": "Conversions",
+        "url": "https://github.com/LCBC-UiO/Conversions"
+    },
+    {
+        "package": "galamm",
+        "url": "https://github.com/LCBC-UiO/galamm"
+    },
+    {
+        "package": "noasr",
+        "url": "https://github.com/LCBC-UiO/noasr"
+    }
+,
+    {
+        "package": "tsdrtools",
+        "url": "https://github.com/LCBC-UiO/tsdrtools"
+    }
+]
+
