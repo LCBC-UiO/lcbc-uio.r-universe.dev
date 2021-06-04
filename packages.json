@@ -27,6 +27,9 @@
     {
         "package": "tsdrtools",
         "url": "https://github.com/LCBC-UiO/tsdrtools"
-    }
+    },
+    {
+        "package": "BayesianLaterality",
+        "url": "https://github.com/LCBC-UiO/BayesianLaterality"
 ]
 
