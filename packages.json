@@ -31,6 +31,10 @@
     {
         "package": "BayesianLaterality",
         "url": "https://github.com/LCBC-UiO/BayesianLaterality"
+    },
+    {
+        "package": "psykinematix",
+        "url": "https://github.com/LCBC-UiO/psykinematix"
     }
 ]
 
