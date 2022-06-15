@@ -35,6 +35,10 @@
     {
         "package": "psykinematix",
         "url": "https://github.com/LCBC-UiO/psykinematix"
+    },
+    {
+        "package": "nettskjema.tsd",
+        "url": "https://github.com/LCBC-UiO/nettskjema.tsd"
     }
 ]
 
