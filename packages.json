@@ -39,6 +39,10 @@
     {
         "package": "nettskjema.tsd",
         "url": "https://github.com/LCBC-UiO/nettskjema.tsd"
+    },
+    {
+        "package": "eprimeParser",
+        "url": "https://github.com/LCBC-UiO/eprimeParser"
     }
 ]
 
